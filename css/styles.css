@@ -172,6 +172,10 @@ address {
     color: var(--color-consent);
     font-size: 12px;
     line-height: 1.5;
+}
+
+.warning-about-consent a {
+    color: var(--color-consent);
     text-decoration-line: underline;
 }
 
