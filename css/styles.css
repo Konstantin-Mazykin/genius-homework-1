@@ -143,8 +143,7 @@ address {
 }
 
 .procedure-description {
-    background-color: rgb(180, 206, 255);
-    /* For text visibility. Remove when finished ! ! ! */
+    background-color: rgb(180, 206, 255); /* For text visibility. Remove when finished ! ! ! */
     color: var(--color-brand-light);
     font-size: 22px;
     line-height: 1.2;
@@ -186,8 +185,7 @@ address {
     background-color: var(--color-brand-dark);
 }
 
-.footer-link,
-.addres-link {
+.footer-link, .addres-link {
     color: var(--color-brand-light);
     font-size: 16px;
 }
