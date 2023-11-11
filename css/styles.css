@@ -90,15 +90,6 @@ address {
 }
 
 /* Header section */
-.header-title {
-    color: var(--color-accent);
-    text-transform: capitalize;
-    font-family: 'Play', sans-serif;
-    font-size: 140px;
-    font-weight: 700;
-    line-height: 0.8;
-}
-
 .header-link {
     color: var(--color-brand-dark);
 }
